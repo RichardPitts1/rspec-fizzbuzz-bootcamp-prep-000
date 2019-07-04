@@ -2,9 +2,9 @@
 # See README.md for instructions on how to do this
 
 
-def fizzbuzz(int)
-  if int % 3 == 0 
+def fizzbuzz(i)
+  if i % 3 == 0 
     "Fizz"
-  elsif int % 5 == 0
+  elsif i % 5 == 0
     "Buzz:"
 end
